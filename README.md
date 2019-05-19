@@ -1,2 +1,2 @@
 # Hashing
-Implementation for Linear Probing, Quadratic Probing and Double Hashing
+Implementation of Linear Probing, Quadratic Probing and Double Hashing
